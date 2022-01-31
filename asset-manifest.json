@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/StepForm/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/StepForm/static/js/main.1e09bbed.chunk.js",
+    "main.js.map": "/StepForm/static/js/main.1e09bbed.chunk.js.map",
+    "runtime-main.js": "/StepForm/static/js/runtime-main.6d12676f.js",
+    "runtime-main.js.map": "/StepForm/static/js/runtime-main.6d12676f.js.map",
+    "static/js/2.81967c8f.chunk.js": "/StepForm/static/js/2.81967c8f.chunk.js",
+    "static/js/2.81967c8f.chunk.js.map": "/StepForm/static/js/2.81967c8f.chunk.js.map",
+    "index.html": "/StepForm/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/StepForm/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.81967c8f.chunk.js.LICENSE.txt": "/StepForm/static/js/2.81967c8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d12676f.js",
+    "static/js/2.81967c8f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1e09bbed.chunk.js"
+  ]
+}
